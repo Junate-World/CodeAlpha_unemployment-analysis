@@ -1,0 +1,36 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Data files
+*.csv
+*.xls
+*.xlsx
+
+# Logs
+*.log
+
+# Configuration files
+*.ini
+*.cfg
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Generated plots and figures
+*.png
+*.jpg
+*.jpeg
+*.pdf
+
+# IDE settings
+.vscode/
+.idea/
